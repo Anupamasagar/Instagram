@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Instgram bypass
+// @name         Instgram tfv bypass
 // @namespace    https://viayoo.com/
 // @version      0.1
-// @description  instgram tfb bypass
+// @description  instgram tfv bypass
 // @author       You
 // @run-at       document-start
 // @match        https:///
